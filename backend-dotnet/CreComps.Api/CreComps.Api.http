@@ -1,0 +1,6 @@
+@CreComps.Api_HostAddress = http://localhost:5150
+
+GET {{CreComps.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

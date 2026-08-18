@@ -1,0 +1,41 @@
+comp_id,address,city,state,zip,market,property_type,square_footage,year_built,sale_price,price_per_sf,cap_rate,sale_date,buyer,seller
+1,4500 Peachtree Rd NE,Atlanta,GA,30319,Atlanta,Office,185000,2005,42500000,229.73,6.1,2025-11-14,Blackstone Real Estate,Cousins Properties
+2,1200 Interstate North Pkwy,Atlanta,GA,30339,Atlanta,Office,142000,1998,28900000,203.52,6.8,2025-09-22,KKR,TIAA-CREF
+3,3300 Cumberland Blvd,Atlanta,GA,30339,Atlanta,Office,210000,2011,58000000,276.19,5.7,2026-01-08,Prologis,Brookfield
+4,875 Techwood Dr NW,Atlanta,GA,30318,Atlanta,Multifamily,320000,2016,72000000,225.00,5.2,2025-12-03,AvalonBay Communities,Greystar
+5,1500 Cumberland Pkwy,Atlanta,GA,30339,Atlanta,Retail,95000,2003,19500000,205.26,6.9,2025-10-17,Kimco Realty,Regency Centers
+6,4200 Northside Pkwy NW,Atlanta,GA,30327,Atlanta,Office,98000,1995,15200000,155.10,7.4,2025-08-29,LaSalle Investment Mgmt,JLL Income Property Trust
+7,2200 Fulton Industrial Blvd,Atlanta,GA,30336,Atlanta,Industrial,410000,2019,49500000,120.73,5.9,2026-01-21,Prologis,DCT Industrial
+8,3600 Northeast Expy,Atlanta,GA,30341,Atlanta,Industrial,255000,2014,28100000,110.20,6.2,2025-11-30,Blackstone,STAG Industrial
+9,1000 Central Ave,Charlotte,NC,28202,Charlotte,Office,175000,2008,35800000,204.57,6.4,2025-09-05,Beacon Capital Partners,Highwoods Properties
+10,4801 South Blvd,Charlotte,NC,28217,Charlotte,Retail,68000,2001,12100000,177.94,7.1,2025-12-11,Phillips Edison,Site Centers
+11,201 S Tryon St,Charlotte,NC,28202,Charlotte,Office,320000,2002,89000000,278.13,5.5,2026-01-15,Nuveen Real Estate,Bank of America
+12,10925 David Taylor Dr,Charlotte,NC,28262,Charlotte,Industrial,180000,2017,20200000,112.22,6.3,2025-10-02,Rexford Industrial,First Industrial
+13,3900 Colony Rd,Charlotte,NC,28211,Charlotte,Multifamily,210000,2013,46500000,221.43,5.0,2025-08-14,Camden Property Trust,UDR Inc
+14,500 Congress Ave,Austin,TX,78701,Austin,Office,260000,2018,98500000,378.85,4.9,2025-11-19,Hines,Trammell Crow
+15,9600 N Mopac Expy,Austin,TX,78759,Austin,Office,190000,2010,52000000,273.68,5.4,2025-09-28,Blackstone,Cousins Properties
+16,2200 E 6th St,Austin,TX,78702,Austin,Multifamily,175000,2020,58000000,331.43,4.6,2026-01-03,Greystar,AvalonBay Communities
+17,7800 Shoal Creek Blvd,Austin,TX,78757,Austin,Retail,54000,1999,10800000,200.00,6.6,2025-10-24,Regency Centers,Kimco Realty
+18,15008 FM 1325,Austin,TX,78728,Austin,Industrial,330000,2015,37200000,112.73,6.0,2025-12-19,STAG Industrial,Prologis
+19,1301 Fannin St,Houston,TX,77002,Houston,Office,410000,2004,86500000,210.98,6.7,2025-09-11,LaSalle Investment Mgmt,Hines
+20,5500 Westheimer Rd,Houston,TX,77056,Houston,Retail,88000,2000,15900000,180.68,7.3,2025-11-06,Kimco Realty,Weingarten Realty
+21,9950 Fallbrook Dr,Houston,TX,77064,Houston,Industrial,520000,2016,58900000,113.27,6.1,2026-01-27,Prologis,Duke Realty
+22,3200 Southwest Fwy,Houston,TX,77027,Houston,Office,155000,1997,21400000,138.06,7.6,2025-08-21,Beacon Capital Partners,Transwestern
+23,2100 Kirby Dr,Houston,TX,77019,Houston,Multifamily,190000,2014,42800000,225.26,5.3,2025-12-28,Camden Property Trust,Mid-America Apartment
+24,633 17th St,Denver,CO,80202,Denver,Office,225000,2006,55600000,247.11,6.0,2025-10-09,KKR,Brookfield
+25,1000 16th St Mall,Denver,CO,80265,Denver,Retail,72000,1994,13600000,188.89,6.8,2025-09-16,Site Centers,Vornado Realty
+26,4600 Ivy St,Denver,CO,80216,Denver,Industrial,290000,2018,32700000,112.76,6.3,2026-01-10,STAG Industrial,Rexford Industrial
+27,1150 Cherokee St,Denver,CO,80204,Denver,Multifamily,240000,2019,54000000,225.00,5.1,2025-11-25,Greystar,UDR Inc
+28,3300 East 1st Ave,Denver,CO,80206,Denver,Office,110000,2001,17300000,157.27,7.2,2025-08-05,JLL Income Property Trust,LaSalle Investment Mgmt
+29,600 California St,San Francisco,CA,94108,San Francisco,Office,380000,2009,215000000,565.79,4.4,2025-12-15,Blackstone,Vornado Realty
+30,1 Market St,San Francisco,CA,94105,San Francisco,Office,290000,2003,158000000,544.83,4.7,2026-01-05,Nuveen Real Estate,Beacon Capital Partners
+31,2200 Bryant St,San Francisco,CA,94110,San Francisco,Multifamily,150000,2017,88000000,586.67,4.0,2025-10-30,Essex Property Trust,AvalonBay Communities
+32,4200 3rd St,San Francisco,CA,94124,San Francisco,Industrial,180000,2012,49500000,275.00,5.2,2025-09-19,Prologis,Rexford Industrial
+33,899 Howard St,San Francisco,CA,94103,San Francisco,Retail,42000,1998,26400000,628.57,5.5,2025-11-11,Kimco Realty,Site Centers
+34,1101 Brickell Ave,Miami,FL,33131,Miami,Office,265000,2007,71500000,269.81,5.6,2025-08-27,KKR,Hines
+35,7500 SW 8th St,Miami,FL,33144,Miami,Retail,60000,2002,13200000,220.00,6.5,2025-12-06,Regency Centers,Phillips Edison
+36,9000 NW 25th St,Miami,FL,33172,Miami,Industrial,300000,2015,38400000,128.00,5.8,2026-01-18,Rexford Industrial,STAG Industrial
+37,2900 NE 7th Ave,Miami,FL,33137,Miami,Multifamily,175000,2020,52500000,300.00,4.5,2025-10-14,AvalonBay Communities,Camden Property Trust
+38,801 Brickell Ave,Miami,FL,33131,Miami,Office,150000,1996,32800000,218.67,6.9,2025-09-02,Beacon Capital Partners,Nuveen Real Estate
+39,101 W 6th St,Austin,TX,78701,Austin,Office,175000,2021,61200000,349.71,4.8,2026-01-22,Hines,Blackstone
+40,4400 Bandera Rd,San Antonio,TX,78228,San Antonio,Retail,50000,1997,7900000,158.00,7.8,2025-08-11,Site Centers,Weingarten Realty
